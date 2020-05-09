@@ -1,3 +1,3 @@
 <?
-print "Helloo";
+print "Hello";
 ?>
