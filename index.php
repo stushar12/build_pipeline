@@ -1,3 +1,3 @@
 <?
-print ""[DHello"[C;
+print "Hello";
 ?>
