@@ -1,3 +1,3 @@
 <?php
-prinnnt "Tushar Saxena" ;
+print "Tushar Saxena" ;
 ?>
